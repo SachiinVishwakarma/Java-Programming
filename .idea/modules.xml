@@ -3,7 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment 1/Assignment 1.iml" filepath="$PROJECT_DIR$/Assignment 1/Assignment 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 10/Assignment 10.iml" filepath="$PROJECT_DIR$/Assignment 10/Assignment 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 11/Assignment 11.iml" filepath="$PROJECT_DIR$/Assignment 11/Assignment 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 14/Assignment 14.iml" filepath="$PROJECT_DIR$/Assignment 14/Assignment 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 2/Assignment 2.iml" filepath="$PROJECT_DIR$/Assignment 2/Assignment 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/Assignment 3.iml" filepath="$PROJECT_DIR$/Assignment 3/Assignment 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 4/Assignment 4.iml" filepath="$PROJECT_DIR$/Assignment 4/Assignment 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 5/Assignment 5.iml" filepath="$PROJECT_DIR$/Assignment 5/Assignment 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 6/Assignment 6.iml" filepath="$PROJECT_DIR$/Assignment 6/Assignment 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 7/Assignment 7.iml" filepath="$PROJECT_DIR$/Assignment 7/Assignment 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 8/Assignment 8.iml" filepath="$PROJECT_DIR$/Assignment 8/Assignment 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 9/Assignment 9.iml" filepath="$PROJECT_DIR$/Assignment 9/Assignment 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programming.iml" filepath="$PROJECT_DIR$/.idea/Java-Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching Algorithm/Searching Algorithm.iml" filepath="$PROJECT_DIR$/Searching Algorithm/Searching Algorithm.iml" />
     </modules>
   </component>
 </project>
