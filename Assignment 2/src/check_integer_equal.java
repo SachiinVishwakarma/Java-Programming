@@ -11,7 +11,7 @@ public class check_integer_equal {
             System.out.println("Number1 and Number2 are equal");
         }
         else{
-            System.out.println("Number1 and Number2 are are equal");
+            System.out.println("Number1 and Number2 are not equal");
         }
     }
 }
