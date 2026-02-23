@@ -5,9 +5,8 @@ public class check_string_palindrome {
         System.out.println("Enter a string to reverse:");
         String word = myObj.nextLine().toLowerCase();
         String sentence = "";
-        int number = word.length();
         System.out.println("Reversed string:");
-        for (int i = number - 1; i >= 0; i--) {
+        for (int i = word.length() - 1; i >= 0; i--) {
             char result = word.charAt(i);
             sentence= sentence + result;
         }

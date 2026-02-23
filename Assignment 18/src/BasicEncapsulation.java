@@ -31,7 +31,7 @@ class Person {
 public class BasicEncapsulation {
     public static void main(String[] args) {
         Person example = new Person();
-        example.setName("Alice");
+        example.setName("Sachin");
         System.out.println("Name: " + example.getName());
 
         example.setAge(25);

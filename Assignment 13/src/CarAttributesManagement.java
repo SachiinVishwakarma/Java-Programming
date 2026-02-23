@@ -78,23 +78,23 @@ public class CarAttributesManagement {
         System.out.println("Testing negative price:");
         car1.setPrice(-5000);
 
-        // Create another car without modifications
-        System.out.println("\nEnter details for the second car:");
-        scanner.nextLine(); // Consume newline
-        System.out.print("Make: ");
-        String make2 = scanner.nextLine();
-        System.out.print("Model: ");
-        String model2 = scanner.nextLine();
-        System.out.print("Year: ");
-        int year2 = scanner.nextInt();
-        System.out.print("Price: ");
-        double price2 = scanner.nextDouble();
-
-        Car car2 = new Car(make2, model2, year2, price2);
-
-        // Display details of car2 without modifications
-        System.out.println("\nDetails of the second car:");
-        car2.displayDetails();
+//        // Create another car without modifications
+//        System.out.println("\nEnter details for the second car:");
+//        scanner.nextLine(); // Consume newline
+//        System.out.print("Make: ");
+//        String make2 = scanner.nextLine();
+//        System.out.print("Model: ");
+//        String model2 = scanner.nextLine();
+//        System.out.print("Year: ");
+//        int year2 = scanner.nextInt();
+//        System.out.print("Price: ");
+//        double price2 = scanner.nextDouble();
+//
+//        Car car2 = new Car(make2, model2, year2, price2);
+//
+//        // Display details of car2 without modifications
+//        System.out.println("\nDetails of the second car:");
+//        car2.displayDetails();
 
     }
 }

@@ -37,7 +37,7 @@ public class Rectangle_Area_Calculation {
     public static void main(String[] args) {
 
         Rectangle rectangle1 = new Rectangle(10.0, 5.0);
-        Rectangle rectangle2 = new Rectangle(7.0, 3.0);
+        Rectangle rectangle2 = new Rectangle(20.0, 3.0);
         Rectangle rectangle3 = new Rectangle(15.0, 8.0);
 
 
